@@ -25,7 +25,7 @@ export function Services() {
       image: "https://images.unsplash.com/photo-1560165143-fa7e2d9e594c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb21wdXRlciUyMG1vdGhlcmJvYXJkJTIwcmVwYWlyfGVufDF8fHx8MTc1ODg5MjgwNXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       features: ["Motherboard repair", "Screen replacement", "Keyboard repair", "Port fixes"],
       icon: <Cpu className="h-6 w-6" />,
-      pricing: "From $79"
+      pricing: "Charges From ₹500"
     },
     {
       title: "Performance Upgrades",
@@ -33,7 +33,7 @@ export function Services() {
       image: "https://images.unsplash.com/photo-1654240253461-3f51c793b366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzc2QlMjBtZW1vcnklMjB1cGdyYWRlfGVufDF8fHx8MTc1ODg5MjgwOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       features: ["SSD upgrades", "RAM installation", "Graphics upgrades", "CPU cooling"],
       icon: <Zap className="h-6 w-6" />,
-      pricing: "From $99"
+      pricing: "Charges From ₹300"
     },
     {
       title: "Diagnostics & Cleaning",
@@ -41,7 +41,7 @@ export function Services() {
       image: "https://images.unsplash.com/photo-1642229408339-572fa3328d10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsYXB0b3AlMjBkaWFnbm9zdGljJTIwY29tcHV0ZXIlMjByZXBhaXJ8ZW58MXx8fHwxNzU4NzMzNTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       features: ["Full diagnostics", "Thermal cleaning", "Software optimization", "Virus removal"],
       icon: <Settings className="h-6 w-6" />,
-      pricing: "From $49"
+      pricing: "Charges From ₹400"
     },
     {
       title: "Data Recovery",
@@ -49,7 +49,7 @@ export function Services() {
       image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkYXRhJTIwcmVjb3ZlcnklMjBoYXJkJTIwZHJpdmV8ZW58MXx8fHwxNzU4NzMzNTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       features: ["Failed drive recovery", "Deleted file recovery", "System crash recovery", "Data transfer"],
       icon: <FileArchive className="h-6 w-6" />,
-      pricing: "From $129"
+      pricing: "Charges From ₹400"
     },
     {
       title: "Password Unlock",
@@ -57,7 +57,7 @@ export function Services() {
       image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwYXNzd29yZCUyMHNlY3VyaXR5JTIwbG9ja3xlbnwxfHx8fDE3NTg3MzM1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       features: ["Windows password reset", "User account recovery", "Admin access restore", "BIOS unlock"],
       icon: <Lock className="h-6 w-6" />,
-      pricing: "From $59"
+      pricing: "Charges From ₹400"
     },
     {
       title: "OS Re-installation",
@@ -65,7 +65,7 @@ export function Services() {
       image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxvcGVyYXRpbmclMjBzeXN0ZW0lMjBpbnN0YWxsfGVufDF8fHx8MTc1ODczMzU0OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       features: ["Windows installation", "Linux installation", "Driver setup", "Software restoration"],
       icon: <RefreshCw className="h-6 w-6" />,
-      pricing: "From $89"
+      pricing: "Charges From ₹400"
     },
     {
       title: "Windows & Office Activation",
@@ -73,7 +73,7 @@ export function Services() {
       image: "https://images.unsplash.com/photo-1633419461186-7d40a38105ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtaWNyb3NvZnQlMjB3aW5kb3dzJTIwb2ZmaWNlfGVufDF8fHx8MTc1ODczMzU0OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       features: ["Windows activation", "Office activation", "License verification", "Genuine software"],
       icon: <Key className="h-6 w-6" />,
-      pricing: "From $39"
+      pricing: "Charges From ₹300"
     }
   ];
 
